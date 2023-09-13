@@ -1,9 +1,18 @@
-## Hi guys
+# Hello Everyone!
 
-I am a software engineering major student:
+I am a sophomore majoring in **Software Engineering**. Currently, I am focused on studying:
 
-- I’m currently a freshman.
--  Recently, I'm learning Data Structure & Machine Learning.
-- Future Plan:Make DL research
--  If you want to make friends with me,here is my email address:tpssplzy@gmail.com
+- Data Structures
+- Machine Learning
+
+**Future Plans:**
+
+I am passionate about **Deep Learning** and plan to conduct research in this field.
+
+If you'd like to connect with me or discuss common interests, please don't hesitate to reach out to me via email at [tpssplzy@gmail.com](mailto:tpssplzy@gmail.com).
+
+You can also check out my [GitHub page](https://github.com/TPssp) for more information.
+
+Thank you for stopping by!
+
 
