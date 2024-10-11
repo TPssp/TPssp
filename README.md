@@ -1,6 +1,6 @@
 # Hello Everyone!
 
-I am a sophomore majoring in **Software Engineering**. Currently, I am focused on studying:
+I am a junior majoring in **Software Engineering**. Currently, I am focused on studying:
 
 - Data Structures
 - Machine Learning
